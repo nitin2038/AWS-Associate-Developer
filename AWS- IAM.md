@@ -5,7 +5,7 @@
 	- [ ] Access : Shared acess to your AWS account
 	- [ ] Permissions : Granular Permissions
 	- [ ] Identity Federation : Supports well known identity providers eg : FB, Linkedin
--![[IAM_screenshot.png]]
+-<img src="https://github.com/nitin2038/AWS-Associate-Developer/blob/main/images/IAM_screenshot.png?raw=true" alt="iam extra features"/>
 
 #### User , Roles and Groups
 - [ ] USERS : Think People

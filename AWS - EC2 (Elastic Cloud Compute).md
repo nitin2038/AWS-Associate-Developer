@@ -33,12 +33,12 @@ What is EC2 ?
 
 #### 7 layer Model :
 - A conceptual framework which describes the functions of a network.
- ![[./images/7layer_screenshot.png]]
+ <img src="https://github.com/nitin2038/AWS-Associate-Developer/blob/main/images/7layer_screenshot.png?raw=true" alt="7 layer model"/>
 
 
 ##### X-forwarded-for Header  
 - Identify the originating IP address of a client connecting through a load balancer.
-![[laodBalancer_screenshot.png]]
+<img src="https://github.com/nitin2038/AWS-Associate-Developer/blob/main/images/laodBalancer_screenshot.png?raw=true" alt="load -balancer"/>
 
 #### Route 53
 - [ ] It is Amazon's DNS service
